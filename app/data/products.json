@@ -1,0 +1,189 @@
+[
+  {
+    "id": 100,
+    "name": "Notebook Acer Nitro V15",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_841092-MLA79647749293_092024-O.webp",
+    "description": "Notebook Acer Nitro V15 ANV15-51-58AZ Core I5-13420h 8gb 512gb Rtx 3050 Cor Preto",
+    "price": 4756.00,
+    "rating": 4.5,
+    "specs": {
+      "CPU": "Intel i5",
+      "RAM": "8GB",
+      "Storage": "512GB SSD",
+      "GPU": "NVIDIA GeForce RTX 3050",
+      "Camera": "720Mpx",
+      "Display": "15p Full HD LED",
+      "OS": "Windows",
+      "Color": "Black"
+    }
+  },
+  {
+    "id": 101,
+    "name": "Notebook Dell Inspiron I15",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_688100-MLU78192187634_082024-O.webp",
+    "description": "Notebook Dell Inspiron I15-i120k-a25p I5 8gb 512gb 15.6 W11",
+    "price": 3300.00,
+    "rating": 4.2,
+    "specs": {
+      "CPU": "Intel Core i5 i5-1235U",
+      "RAM": "8GB",
+      "Storage": "512GB",
+      "Camera": "720Mpx",
+      "Display": "15.6p Full HD LED",
+      "OS": "Windows",
+      "Color": "Black"
+    }
+  }
+  ,
+  {
+    "id": 102,
+    "name": "Notebook ASUS Vivobook Go 15 E1504FA-NJ731",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_752201-MLB86029622052_062025-O.webp",
+    "description": "Notebook ASUS Vivobook Go 15 E1504FA-NJ731 com processador AMD Ryzen 5 7520U, 8GB de RAM, 256GB de SSD e sistema operacional KeepOS. Ideal para tarefas cotidianas e produtividade.",
+    "price": 2599.00,
+    "rating": 4.5,
+    "specs": {
+      "CPU": "AMD Ryzen 5 7520U",
+      "RAM": "8GB",
+      "Storage": "256GB SSD",
+      "Camera": "720Mpx",
+      "GPU": "AMD Radeon Graphics",
+      "Display": "15.6p Full HD LED",
+      "OS": "KeepOS",
+      "Color": "Mixed Black"
+    }
+  }
+  ,
+  {
+    "id": 103,
+    "name": "Notebook HP 256R G9",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_820393-MLB86029622038_062025-O.webp",
+    "description": "Notebook HP 256R G9 Core i3 1215U 8GB RAM 256GB SSD UHD Graphics com mochila HP",
+    "price": 2899.00,
+    "rating": 4.2,
+    "specs": {
+      "CPU": "Intel Core i3 1215U",
+      "RAM": "8GB",
+      "Storage": "256GB SSD",
+      "GPU": "Intel UHD Graphics",
+      "Camera": "720p HD",
+      "Display": "15.6 Full HD LED",
+      "OS": "Windows 11 Home",
+      "Color": "Prata"
+    }
+  }
+  ,
+  {
+    "id": 104,
+    "name": "MacBook Air",
+    "image_url": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mba15-midnight-select-202306?wid=600&hei=600&fmt=jpeg&qlt=95&.v=1684340991370",
+    "description": "MacBook Air Azul Meia-Noite com Apple Core i7, 8GB RAM e 256GB SSD – leve, elegante e potente para uso diário e profissional.",
+    "price": 8499.00,
+    "rating": 4.8,
+    "specs": {
+      "CPU": "Apple Core i7",
+      "RAM": "8GB",
+      "Storage": "256GB SSD",
+      "GPU": "Apple GPU integrado",
+      "Camera": "1080p FaceTime HD",
+      "Display": "13.6'' Liquid Retina",
+      "OS": "macOS Sonoma",
+      "Color": "Azul Meia-Noite"
+    }
+  }
+  ,
+  {
+    "id": 105,
+    "name": "Notebook Dell Inspiron I15-i120k-a35p",
+    "image_url": "https://i.dell.com/sites/csimages/App-Merchandizing_Images/all/inspiron-15-3520-laptop.png",
+    "description": "Notebook Dell Inspiron I15-i120k-a35p com Intel Core i5, 16GB RAM, 1TB SSD, tela Full HD de 15.6'' e Windows 11 – desempenho e espaço para trabalho e entretenimento.",
+    "price": 5299.00,
+    "rating": 4.6,
+    "specs": {
+      "CPU": "Intel Core i5 12ª geração",
+      "RAM": "16GB",
+      "Storage": "1TB SSD",
+      "GPU": "Intel Iris Xe Graphics",
+      "Camera": "720p HD",
+      "Display": "15.6'' Full HD LED",
+      "OS": "Windows 11 Home",
+      "Color": "Preto"
+    }
+  }
+  ,
+  {
+    "id": 106,
+    "name": "Notebook ASUS Vivobook Go 15 E1504",
+    "image_url": "https://dlcdnwebimgs.asus.com/files/media/F48257A3-99F1-4E8A-AFA7-2C4D92C65361/v1/img/index/kv/ksp2/ksp2-pd.png",
+    "description": "Notebook ASUS Vivobook Go 15 E1504FA-NJ731 com AMD Ryzen 5 7520U, 8GB RAM, 256GB SSD, tela Full HD de 15,6'', Linux KeepOS e design elegante na cor preta.",
+    "price": 2799.00,
+    "rating": 4.4,
+    "specs": {
+      "CPU": "AMD Ryzen 5 7520U",
+      "RAM": "8GB",
+      "Storage": "256GB SSD",
+      "GPU": "AMD Radeon Graphics integrada",
+      "Camera": "720p HD",
+      "Display": "15.6'' Full HD LED",
+      "OS": "Linux KeepOS",
+      "Color": "Preto"
+    }
+  }
+,
+  {
+    "id": 107,
+    "name": "Notebook Lenovo Ideapad 1i",
+    "image_url": "https://www.lenovo.com/medias/lenovo-laptop-ideapad-1-15-intel-hero.png",
+    "description": "Notebook Lenovo Ideapad 1i 82VY000TBR com Intel Core i3-1215U, 4GB RAM, 256GB SSD, Windows 11 Home, tela de 15,6'' Full HD e design moderno na cor cinza.",
+    "price": 2199.00,
+    "rating": 4.1,
+    "specs": {
+      "CPU": "Intel Core i3-1215U",
+      "RAM": "4GB",
+      "Storage": "256GB SSD",
+      "GPU": "Intel UHD Graphics",
+      "Camera": "720p HD",
+      "Display": "15.6'' Full HD LED",
+      "OS": "Windows 11 Home",
+      "Color": "Cinza"
+    }
+  }
+,
+  {
+    "id": 108,
+    "name": "Notebook Positivo Vision R15 Lumina Bar",
+    "image_url": "https://imgs.extra.com.br/55002967/1xg.jpg",
+    "description": "Notebook Positivo Vision R15 Lumina Bar com AMD Ryzen 5, 8GB RAM, 256GB SSD, tela Full HD de 15'' antirreflexo, Windows 11 Home e tecla Copilot. Design sofisticado em preto.",
+    "price": 2499.00,
+    "rating": 4.0,
+    "specs": {
+      "CPU": "AMD Ryzen 5",
+      "RAM": "8GB",
+      "Storage": "256GB SSD",
+      "GPU": "AMD Radeon Graphics integrada",
+      "Camera": "720p HD",
+      "Display": "15.6'' Full HD Antirreflexo",
+      "OS": "Windows 11 Home",
+      "Color": "Preto"
+    }
+  }
+,
+  {
+    "id": 109,
+    "name": "Notebook HP Elitebook 840",
+    "image_url": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c06670639.png",
+    "description": "Notebook HP Elitebook 840 com processador Intel Core i5 de 11ª geração, 16GB RAM, 256GB SSD, tela de 14'' Full HD e design premium na cor prateada. Ideal para profissionais que buscam alto desempenho e portabilidade.",
+    "price": 3899.00,
+    "rating": 4.6,
+    "specs": {
+      "CPU": "Intel Core i5 11ª geração",
+      "RAM": "16GB",
+      "Storage": "256GB SSD",
+      "GPU": "Intel Iris Xe Graphics",
+      "Camera": "720p HD",
+      "Display": "14'' Full HD LED",
+      "OS": "Windows 11 Pro",
+      "Color": "Prateado"
+    }
+  }
+]

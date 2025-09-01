@@ -1,0 +1,5 @@
+# Dependências do projeto
+fastapi
+uvicorn
+pydantic
+python-dotenv
