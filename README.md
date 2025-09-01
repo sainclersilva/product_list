@@ -73,10 +73,6 @@ product_comparator/
 # 6.3 Security & Stability:
 - Limits prevent accidental or malicious overloading of the server by requests for excessive data.
 
-# 6.4 Industry Standard:
-- Most public APIs (e.g., Twitter, GitHub, Google APIs) implement pagination, 
-  making integration predictable and reliable.
-
 
 ### Installation ###
 
