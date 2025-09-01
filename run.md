@@ -6,7 +6,7 @@
 
 
 
-* git clone https://github.com/your-username/your-repository.git
+* git clone https://github.com/sainclersilva/product_list.git
 * cd your-repository
 
 
